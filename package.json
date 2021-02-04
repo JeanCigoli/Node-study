@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JeanCigoli/Node-study/issues"
   },
-  "homepage": "https://github.com/JeanCigoli/Node-study#readme"
+  "homepage": "https://github.com/JeanCigoli/Node-study#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
