@@ -1,3 +1,5 @@
+# Repositório para armazenar o código do curso
+
 ## Configuração do GIT
 
 Primeiro rodamos esse comando para falar que vamos editar o arquivo de configuração pelo visual code
