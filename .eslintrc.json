@@ -16,6 +16,8 @@
     "class-methods-use-this": "off",
     "no-unused-vars": "off",
     "no-restricted-syntax": "off",
+    "no-useless-constructor": "off",
+    "no-empty-function": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
